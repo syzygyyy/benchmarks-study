@@ -1,8 +1,0 @@
-typechain
-abi
-cache
-artifacts
-coverage
-keystore
-deployments
-scripts/**/*.sh

@@ -1,3 +1,0 @@
-openzeppelin/=lib/openzeppelin-contracts/contracts
-hot-chain-svg/=lib/hot-chain-svg/contracts
-base64/=lib/base64/
