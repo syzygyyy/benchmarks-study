@@ -2,7 +2,7 @@
  * Source Code first verified at https://etherscan.io on Thursday, April 25, 2019
  (UTC) */
 
-pragma solidity >=0.4.22 <0.6.0;
+pragma solidity ^0.5.17;
 
 interface tokenRecipient { 
     function receiveApproval(address _from, uint256 _value, address _token, bytes calldata _extraData) external; 

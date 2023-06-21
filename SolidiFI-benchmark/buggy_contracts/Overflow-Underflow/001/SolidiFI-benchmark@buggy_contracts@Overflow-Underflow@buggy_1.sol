@@ -2,7 +2,7 @@
  * Source Code first verified at https://etherscan.io on Tuesday, May 7, 2019
  (UTC) */
 
-pragma solidity >=0.4.22 <0.6.0;
+pragma solidity ^0.5.17;
 contract EIP20Interface {
     /* This is a slight change to the ERC20 base standard.
     function totalSupply() constant returns (uint256 supply);
