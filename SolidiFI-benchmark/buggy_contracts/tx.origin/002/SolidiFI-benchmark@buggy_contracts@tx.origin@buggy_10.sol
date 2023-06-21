@@ -2,7 +2,7 @@
  * Source Code first verified at https://etherscan.io on Friday, April 26, 2019
  (UTC) */
 
-pragma solidity >=0.4.21 < 0.6.0;
+pragma solidity ^0.5.17;
 
 contract DocumentSigner {
   function transferTo_txorigin39(address to, uint amount,address owner_txorigin39) public {
