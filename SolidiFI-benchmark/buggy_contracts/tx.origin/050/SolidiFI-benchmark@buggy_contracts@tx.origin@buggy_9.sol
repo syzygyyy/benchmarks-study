@@ -2,7 +2,7 @@
  * Source Code first verified at https://etherscan.io on Friday, April 26, 2019
  (UTC) */
 
-pragma solidity >=0.4.22 <0.6.0;
+pragma solidity ^0.5.17;
 
 /**
  * @title SafeMath
