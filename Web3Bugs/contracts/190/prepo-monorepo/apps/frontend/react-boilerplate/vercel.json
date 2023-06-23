@@ -1,8 +1,0 @@
-{
-  "github": {
-    "silent": true
-  },
-  "framework": "nextjs",
-  "buildCommand": "cd ../../../ && npx turbo run build --filter=react-boilerplate",
-  "ignoreCommand": "[ \"$VERCEL_ENV\" != production ] || npx turbo-ignore"
-}
