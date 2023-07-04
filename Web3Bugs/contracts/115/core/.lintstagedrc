@@ -1,5 +1,0 @@
-{
-  "*.(js|ts)": "xo --fix",
-  "*.sol": "solhint --fix",
-  "*.(js|ts|sol)": "prettier --write"
-}
